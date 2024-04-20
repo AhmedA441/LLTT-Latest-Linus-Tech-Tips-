@@ -5,7 +5,7 @@ What it does -
 1 - Opens the Latest Linus Tech tips video...
 2 - sits on your desktop looking pretty. (the Logo is AI Generated so its not really pretty, it's not meant to be pretty anyway)
 
-Instructions
+Instructions -
 
 API Limitations so can't call it without applying for a higher quota (the exe file), or just get your own API Key and compile the code for just yourself.
 To get the API key go to  "https://console.cloud.google.com/" specifically get "YouTube Data API v3".
