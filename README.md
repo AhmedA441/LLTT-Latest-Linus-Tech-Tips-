@@ -3,6 +3,7 @@ LLTT (LATEST LINUS TECH TIPS) is a random program I created on a whim because it
 What it does -
 
 1 - Opens the Latest Linus Tech tips video...
+
 2 - sits on your desktop looking pretty. (the Logo is AI Generated so its not really pretty, it's not meant to be pretty anyway)
 
 Instructions -
